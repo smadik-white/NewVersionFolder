@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/NewVersionFolder/.vs
+/NewVersionFolder/NewVersionFolder/bin
+/NewVersionFolder/NewVersionFolder/obj
+/NewVersionFolder/NewVersionFolder/Properties/PublishProfiles
+/NewVersionFolder/NewVersionFolder/NewVersionFolder.csproj.user
